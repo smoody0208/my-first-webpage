@@ -4,7 +4,7 @@
 
 #### By _**Spencer Moody and Taylor Phillips**_
 
-## Description
+## description
 
 _This webpage is a practice example of html block formatting._
 
